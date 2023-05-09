@@ -1,2 +1,4 @@
 # INF05731_Group3_Project
 Sentiment Analysis on Financial-related Tweets for Predicting Stock Market
+The stock market plays a vital role in a free-market economy, influencing capital allocation, personal wealth, and overall economic investment. As an indicator of a nation's economy, understanding stock market trends and factors can provide insights into economic resilience and growth. This research project aims to explore the impact of public sentiment, as expressed through financial-related tweets, on stock market movements. We will utilize sentiment analysis techniques and deep learning models, such as LSTM, to understand the potential of using tweet sentiment as an indicator for stock market trends. Our research questions and methodology are designed to investigate the complexities of predicting share prices based on social media data and to assess the practical applications of these findings.
+
